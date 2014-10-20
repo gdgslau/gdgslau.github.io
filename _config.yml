@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+email: "zergakyuk@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "http://gdgslau.github.io"
@@ -69,10 +69,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -111,9 +110,9 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "What's Up GDG SLAU?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizers"
