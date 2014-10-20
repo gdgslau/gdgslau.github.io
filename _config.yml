@@ -170,9 +170,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/u/0/b/104400328660167590151/", icon: "google-plus"}
+ - {link: "https://www.facebook.com/pages/GDG-SLAU/294647037366586", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -183,7 +182,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:zergakyuk@gmail.com", text: "zergakyuk@gmail.com"}
  -
   title: "FAQ"
   links:
