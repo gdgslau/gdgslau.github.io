@@ -56,7 +56,7 @@ eventDate: "October 25th, 2014"
 typeoutTextValues: '"", "Season", "Uganda", "Design Sprint", "Codelab", "SLAU"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -69,7 +69,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
@@ -106,7 +106,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["1 cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
